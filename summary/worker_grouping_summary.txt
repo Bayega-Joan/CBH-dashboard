@@ -1,0 +1,4 @@
+Worker Group Counts (Claimed Shifts Only):
+AM: 498 workers
+NOC: 335 workers
+PM: 459 workers

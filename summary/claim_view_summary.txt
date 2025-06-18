@@ -1,0 +1,28 @@
+=== OVERALL ===
+Average claim-to-view ratio: 0.0162
+Average views before a claim: 61.81
+
+=== OVERALL SHIFT VIEW STATS ===
+Average number of views before a shift is claimed: 7.29
+
+=== AM ===
+Average claim-to-view ratio: 0.0167
+Average views before a claim: 59.79
+
+=== AM SHIFT VIEW STATS ===
+Average number of views before a shift is claimed: 7.52
+
+=== PM ===
+Average claim-to-view ratio: 0.0173
+Average views before a claim: 57.71
+
+=== PM SHIFT VIEW STATS ===
+Average number of views before a shift is claimed: 7.20
+
+=== OVERNIGHT ===
+Average claim-to-view ratio: 0.0239
+Average views before a claim: 41.81
+
+=== OVERNIGHT SHIFT VIEW STATS ===
+Average number of views before a shift is claimed: 7.12
+
